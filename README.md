@@ -1,83 +1,10 @@
-<<<<<<< HEAD
-<div align="center">
-<img width="30%" src="https://user-images.githubusercontent.com/72341453/134747028-7e2d90cc-a92f-4f66-815e-54a0d50cca54.PNG">
-
-# StudyBuddy
-</div>
-
-### Cloning the repository
-
---> Clone the repository using the command below :
-```bash
-git clone https://github.com/divanov11/StudyBud.git
-
-```
-
---> Move into the directory where we have the project files : 
-```bash
-cd StudyBud
-
-```
-
---> Create a virtual environment :
-```bash
-# Let's install virtualenv first
-pip install virtualenv
-
-# Then we create our virtual environment
-virtualenv envname
-
-```
-
---> Activate the virtual environment :
-```bash
-envname\scripts\activate
-
-```
-
---> Install the requirements :
-```bash
-pip install -r requirements.txt
-
-```
-
-#
-
-### Running the App
-
---> To run the App, we use :
-```bash
-python manage.py runserver
-
-```
-
-> ⚠ Then, the development server will be started at http://127.0.0.1:8000/
-
-#
-
-### App Preview :
-
-<table width="100%"> 
-<tr>
-<td width="50%">      
-&nbsp; 
-<br>
-<p align="center">
-  Feed Home
-</p>
-<img src="https://user-images.githubusercontent.com/72341453/134747262-0a92233d-8010-40f8-84c5-8d94895aac44.PNG">
-</td> 
-<td width="50%">
-<br>
-<p align="center">
-  Room Conversation Preview
-</p>
-<img src="https://user-images.githubusercontent.com/72341453/134747155-3ca5b55f-b064-4741-aeae-abe90bddf41e.PNG">  
-</td>
-</table>
-
-
-=======
-# WeShare
-A Django Based Platform.
->>>>>>> 0c4291b80d577b12b789461e69e4ed9f6751cec7
+![Screenshot 2024-03-17 114142](https://github.com/iamnandini/WeShare/assets/117187906/61465792-1870-47f6-ae06-f8c7b90aeecd)
+![Screenshot 2024-03-17 114107](https://github.com/iamnandini/WeShare/assets/117187906/54408d11-9050-4d21-816a-1aa621360f69)
+![Screenshot 2024-03-17 120128](https://github.com/iamnandini/WeShare/assets/117187906/b92a1956-c39c-4809-81dd-cfa31126403c)
+![Screenshot 2024-03-17 120550](https://github.com/iamnandini/WeShare/assets/117187906/5b71ac58-5dee-486c-9e7a-9ad2bc0d75f8)
+![Screenshot 2024-03-17 1204321](https://github.com/iamnandini/WeShare/assets/117187906/81f9e63e-b2fc-44dd-ae52-04d415f14239)
+![Screenshot 2024-03-17 120525](https://github.com/iamnandini/WeShare/assets/117187906/afe90620-4dd4-411f-961f-d750d6666db6)
+![Screenshot 2024-03-17 120351](https://github.com/iamnandini/WeShare/assets/117187906/b91f755c-65d3-4a1d-b77e-a9847cb0a17e)
+![Screenshot 2024-03-17 120332](https://github.com/iamnandini/WeShare/assets/117187906/e8352298-52cb-4091-9ca1-639d59e6b18a)
+![Screenshot 2024-03-17 120141](https://github.com/iamnandini/WeShare/assets/117187906/cd19c36a-8d72-481d-bf81-a71c2a72510d)
+![Screenshot 2024-03-17 120045](https://github.com/iamnandini/WeShare/assets/117187906/59df133f-31f0-4d7b-87c0-42e521e1766e)
